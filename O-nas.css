@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   min-height: 795px;
 }
 
@@ -23,7 +23,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 883px;
   }
 
@@ -41,7 +41,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 1041px;
   }
 
@@ -60,7 +60,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 1097px;
   }
 
@@ -78,7 +78,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 1400px;
   }
 
